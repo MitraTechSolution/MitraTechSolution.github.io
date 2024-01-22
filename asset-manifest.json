@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.282e0eb3.css",
+    "main.js": "/static/js/main.45cffc59.js",
+    "static/media/Storybook_AlexInventory1.png": "/static/media/Storybook_AlexInventory1.a17add59e243a7a273ad.png",
+    "static/media/Ghastly Panic.ttf": "/static/media/Ghastly Panic.6e935464c96957779f4f.ttf",
+    "static/media/CrimsonPro-Italic-VariableFont_wght.ttf": "/static/media/CrimsonPro-Italic-VariableFont_wght.c14826d50623c7177118.ttf",
+    "static/media/CrimsonPro-VariableFont_wght.ttf": "/static/media/CrimsonPro-VariableFont_wght.1b6ad687c973305ba3e1.ttf",
+    "static/media/CrimsonPro-LightItalic.ttf": "/static/media/CrimsonPro-LightItalic.c4c8e96121d802d09760.ttf",
+    "static/media/CrimsonPro-BlackItalic.ttf": "/static/media/CrimsonPro-BlackItalic.da36a5adf5ece1ff00d5.ttf",
+    "static/media/CrimsonPro-ExtraBoldItalic.ttf": "/static/media/CrimsonPro-ExtraBoldItalic.33443465dcca5f31613d.ttf",
+    "static/media/CrimsonPro-MediumItalic.ttf": "/static/media/CrimsonPro-MediumItalic.6d1a20894d023776dc00.ttf",
+    "static/media/CrimsonPro-SemiBoldItalic.ttf": "/static/media/CrimsonPro-SemiBoldItalic.bc48dae01d880d751fcb.ttf",
+    "static/media/CrimsonPro-Italic.ttf": "/static/media/CrimsonPro-Italic.67600d7bb3debc190b7b.ttf",
+    "static/media/CrimsonPro-BoldItalic.ttf": "/static/media/CrimsonPro-BoldItalic.545bc7338e34c2f0f5a7.ttf",
+    "static/media/CrimsonPro-SemiBold.ttf": "/static/media/CrimsonPro-SemiBold.20f6c9ae5dcd21795b43.ttf",
+    "static/media/CrimsonPro-Medium.ttf": "/static/media/CrimsonPro-Medium.5138ad40b99fe89e0305.ttf",
+    "static/media/CrimsonPro-ExtraBold.ttf": "/static/media/CrimsonPro-ExtraBold.43ca236f9461589b3433.ttf",
+    "static/media/CrimsonPro-Black.ttf": "/static/media/CrimsonPro-Black.1563bc41283009080003.ttf",
+    "static/media/CrimsonPro-Light.ttf": "/static/media/CrimsonPro-Light.fb37eb3fd837e375a02a.ttf",
+    "static/media/CrimsonPro-Regular.ttf": "/static/media/CrimsonPro-Regular.3a0b340305fc9dfe1eb1.ttf",
+    "static/media/CrimsonPro-Bold.ttf": "/static/media/CrimsonPro-Bold.7f908a57bbc28db2c841.ttf",
+    "static/media/Oswald-SemiBold.ttf": "/static/media/Oswald-SemiBold.031050adff016954686c.ttf",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.4cc74cc05cd5868cc309.ttf",
+    "static/media/Oswald-Light.ttf": "/static/media/Oswald-Light.5b37a8f3ab53dd02dadf.ttf",
+    "static/media/Oswald-Regular.ttf": "/static/media/Oswald-Regular.19286529c18bfb11f802.ttf",
+    "static/media/Oswald-DemiBold.ttf": "/static/media/Oswald-DemiBold.ab8bc6b32aeefefe698e.ttf",
+    "static/media/Oswald-Heavy.ttf": "/static/media/Oswald-Heavy.99a8953c90cf9a8e8cfa.ttf",
+    "static/media/ChaptersIconsMix.otf": "/static/media/ChaptersIconsMix.b49262355659ed40b451.otf",
+    "static/media/ClansIcons.otf": "/static/media/ClansIcons.de64289d401d3ef18c9d.otf",
+    "static/media/DisciplineIcons.otf": "/static/media/DisciplineIcons.3194994c5cfc5fba3a66.otf",
+    "index.html": "/index.html",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.bf790e129e8d55f50535.svg",
+    "main.282e0eb3.css.map": "/static/css/main.282e0eb3.css.map",
+    "main.45cffc59.js.map": "/static/js/main.45cffc59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.282e0eb3.css",
+    "static/js/main.45cffc59.js"
+  ]
+}
